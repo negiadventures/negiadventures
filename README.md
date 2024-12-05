@@ -1,6 +1,6 @@
 # Anirudh Negi
 
-**`Sr. Java Developer, Genentech`**
+**`Software Engineer, Gofundme x Classy`**
 
 As a highly skilled and experienced Backend Developer, I bring a wealth of expertise in developing and maintaining high-performance, scalable applications using cutting-edge technologies such as Springboot, React, Node.js, Elasticsearch, Git, Docker, Linux, and databases like MySQL, Oracle, PostgreSQL. With extensive experience in AWS services such as Lambda, SQS, SNS, S3, ECS, EC2, RDS, Athena, and CloudWatch, I am confident in my ability to design, implement and deploy secure, efficient and effective solutions to meet the demands of any project. My passion for technology and drive for excellence have enabled me to consistently deliver quality results.
 
