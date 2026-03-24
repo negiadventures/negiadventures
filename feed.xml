@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anirudh Negi — GitHub Projects</title>
+    <link>https://github.com/negiadventures</link>
+    <description>Latest public repositories and project updates from Anirudh Negi (negiadventures)</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://negiadventures.github.io/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>market-summary-ai</title>
+      <link>https://github.com/negiadventures/market-summary-ai</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/market-summary-ai</guid>
+      <pubDate>Mon, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <description>AI-powered market insights using Claude + real-time data | Topics: ai, llm, python, aws | Language: Python | Stars: 0</description>
+    </item>
+
+    <item>
+      <title>devspace-microservices</title>
+      <link>https://github.com/negiadventures/devspace-microservices</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/devspace-microservices</guid>
+      <pubDate>Thu, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Distributed microservices architecture with DevSpace orchestration | Language: JavaScript | Stars: 0</description>
+    </item>
+
+    <item>
+      <title>slackbot_bedrock</title>
+      <link>https://github.com/negiadventures/slackbot_bedrock</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/slackbot_bedrock</guid>
+      <pubDate>Sat, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <description>LLM-powered Slack bot for team automation via AWS Bedrock | Language: Python | Stars: 0</description>
+    </item>
+
+    <item>
+      <title>elasticsearch-helpers</title>
+      <link>https://github.com/negiadventures/elasticsearch-helpers</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/elasticsearch-helpers</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Reusable utilities for advanced search and aggregation pipelines | Language: Python | Stars: 0</description>
+    </item>
+
+    <item>
+      <title>virtual-tryon</title>
+      <link>https://github.com/negiadventures/virtual-tryon</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/virtual-tryon</guid>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <description>Virtual try-on system using advanced computer vision | Language: Python | Stars: 3</description>
+    </item>
+
+    <item>
+      <title>network-curl-extension</title>
+      <link>https://github.com/negiadventures/network-curl-extension</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/network-curl-extension</guid>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <description>Browser extension for network debugging and curl generation | Language: JavaScript | Stars: 0</description>
+    </item>
+
+  </channel>
+</rss>
