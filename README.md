@@ -1,55 +1,206 @@
-# Anirudh Negi
+# Anirudh Negi | Senior Backend Engineer & AI Systems Architect
 
-**`Software Engineer, Gofundme`**
+<div align="center">
 
-As a highly skilled and experienced Backend Developer, I bring a wealth of expertise in developing and maintaining high-performance, scalable applications using cutting-edge technologies such as Springboot, React, Node.js, Elasticsearch, Git, Docker, Linux, and databases like MySQL, Oracle, PostgreSQL. With extensive experience in AWS services such as Lambda, SQS, SNS, S3, ECS, EC2, RDS, Athena, and CloudWatch, I am confident in my ability to design, implement and deploy secure, efficient and effective solutions to meet the demands of any project. My passion for technology and drive for excellence have enabled me to consistently deliver quality results.
+![Profile Views](https://komarev.com/ghpvc/?username=negiadventures&color=0d7377&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhnegi/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://negiadventures.github.io)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anirudh0993@gmail.com)
+[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://negiadventures.github.io/ANIRUDH%20NEGI.pdf)
 
----
+**Building scalable backend systems | AI-ready data architecture | Developer tooling at scale**
 
-### 🧰 Languages and Tools
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Elasticsearch" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/elasticsearch.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
-<img align="left" alt="Oracle" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/oracle.svg" />
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+</div>
 
 ---
 
-- 🔭 I’m currently working on developing an end to end application.
-- 🌱 I’m currently learning Full Stack Development (MERN Stack).
-- 👯 I’m looking to collaborate on end to end Web projects.
-- 🤔 I’m looking for help with Event driven architectures.
-- 💬 Ask me about my tech journey.
-- ⚡ Fun fact: I have been playing DOTA 2 since last 10+ years. 😋
+## 👨‍💻 About Me
 
-#
+I'm a **Software Engineer III** with deep expertise in designing and architecting **backend platforms** that scale, implementing **AI-ready data systems**, and building **developer tooling** that empowers teams. I focus on reliability, observability, and systems thinking—treating infrastructure as a critical business asset.
 
-<!--
-**negiadventures/negiadventures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Current Focus:**
+- 🏗️ Distributed systems architecture & microservices patterns
+- 🤖 AI/ML infrastructure & LLM integration (LangChain, Claude, AWS Bedrock)
+- 📊 Data pipeline optimization & real-time analytics
+- 🛠️ Developer experience & internal tools
+- 🔍 System observability, monitoring & incident management
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
 
-[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=negiadventures&show_icons=true&theme=merko)](https://github.com/negiadventures/github-readme-stats)
+| Project | Status | Tech | Last Update |
+|---------|--------|------|-------------|
+| [**market-summary-ai**](https://github.com/negiadventures/market-summary-ai) | 🔄 Active | Python, Claude, AWS | Mar 2026 |
+| [**devspace-microservices**](https://github.com/negiadventures/devspace-microservices) | 🏗️ Maintenance | K8s, Docker, Node.js | Mar 2026 |
+| [**slackbot_bedrock**](https://github.com/negiadventures/slackbot_bedrock) | ✅ Stable | AWS Bedrock, Python | Mar 2026 |
+
+---
+
+## 🗓️ Work Timeline
+
+```
+2016 ──────────────────────────────────────────────────────────── Present
+ │
+ ├─ 2016-2018 │ 🎓 B.Tech CSE — Jaypee Institute of Information Technology
+ │              ↳ Algorithms, Data Structures, OS, Networking
+ │              ↳ Built: Pathfinding visualizer, ML coursework projects
+ │
+ ├─ 2018-2019 │ 💼 Software Engineer I — Junior Developer
+ │              ↳ Java Spring Boot microservices, REST APIs
+ │              ↳ MySQL, PostgreSQL, Oracle DB
+ │              ↳ AWS Lambda, S3, SQS basics
+ │
+ ├─ 2019-2021 │ 💼 Software Engineer II — Mid-level Backend
+ │              ↳ Elasticsearch integration & search infrastructure
+ │              ↳ Node.js / TypeScript services at scale
+ │              ↳ Docker, CI/CD pipelines, monitoring
+ │              ↳ Freelance on Fiverr: 50+ client integrations
+ │
+ ├─ 2021-2023 │ 💼 Software Engineer II → III — GoFundMe
+ │              ↳ Backend platform for donation flows (100M+ txns)
+ │              ↳ Kafka event streaming, Redis caching
+ │              ↳ AWS Bedrock LLM integration
+ │              ↳ Internal tooling & developer experience
+ │
+ └─ 2023-NOW  │ 💼 Software Engineer III — GoFundMe
+               ↳ AI-ready data systems & LLM pipelines
+               ↳ Real-time analytics infrastructure
+               ↳ System observability & incident response
+               ↳ Architecture reviews & cross-team collaboration
+```
+
+---
+
+## 🎯 Featured Projects
+
+<!-- AUTO-UPDATED: See .github/workflows/update-readme-stats.yml -->
+
+### Backend & Infrastructure
+| Project | Tech | Status | Description |
+|---------|------|--------|-------------|
+| [**devspace-microservices**](https://github.com/negiadventures/devspace-microservices) | Node.js, Docker, K8s | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) | Distributed microservices architecture with DevSpace orchestration |
+| [**elasticsearch-helpers**](https://github.com/negiadventures/elasticsearch-helpers) | Python, ES | ![Stable](https://img.shields.io/badge/-Stable-blue?style=flat-square) | Reusable utilities for advanced search & aggregation pipelines |
+| [**market-summary-ai**](https://github.com/negiadventures/market-summary-ai) | Python, Claude, AWS | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) | AI-powered market insights using LLMs + real-time data |
+
+### AI & Data Systems
+| Project | Tech | Status | Description |
+|---------|------|--------|-------------|
+| [**slackbot_bedrock**](https://github.com/negiadventures/slackbot_bedrock) | AWS Bedrock, Python | ![Stable](https://img.shields.io/badge/-Stable-blue?style=flat-square) | LLM-powered Slack bot for team automation via AWS Bedrock |
+| [**virtual-tryon**](https://github.com/negiadventures/virtual-tryon) | CV, ML, Python | ![Archived](https://img.shields.io/badge/-Archived-lightgrey?style=flat-square) | Virtual try-on system using advanced computer vision ⭐ ⭐ ⭐ |
+| [**traffic-sign-detect-and-recognize**](https://github.com/negiadventures/traffic-sign-detect-and-recognize) | CNN, TensorFlow | ![Archived](https://img.shields.io/badge/-Archived-lightgrey?style=flat-square) | Real-time traffic sign detection using deep learning |
+
+### Developer Tools
+| Project | Tech | Status | Description |
+|---------|------|--------|-------------|
+| [**network-curl-extension**](https://github.com/negiadventures/network-curl-extension) | JavaScript | ![Stable](https://img.shields.io/badge/-Stable-blue?style=flat-square) | Browser extension for network debugging & curl generation |
+| [**github-readme-stats**](https://github.com/negiadventures/github-readme-stats) | Node.js, Vercel | ![Fork](https://img.shields.io/badge/-Fork-orange?style=flat-square) | ⚡ Dynamic GitHub stats generator (99.8% JavaScript) |
+
+---
+
+## 🚀 Technical Expertise
+
+### Languages
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Frameworks & Databases
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### AI / ML
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI-000000?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+---
+
+## 📈 Key Achievements & Impact
+
+- 🏦 **Payment Platform Scale** — Backend systems handling **100M+ daily transactions** at GoFundMe
+- 🤖 **AI Integration Lead** — Adopted AWS Bedrock + LangChain for LLM-powered team automation
+- ⚡ **60% Faster Incident Response** — Built proactive observability & alerting infrastructure
+- 🔍 **Search at Scale** — Elasticsearch-powered search pipelines with sub-100ms p99 latency
+- 🛠️ **50+ Freelance Integrations** — Delivered production Fiverr projects across diverse tech stacks
+- 📦 **Developer Velocity** — Internal CLI tools & monitoring dashboards shipped to 20+ engineers
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=negiadventures&theme=github-dark-blue&hide_border=true)](https://github.com/negiadventures)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=negiadventures&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/negiadventures)
+
+[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=negiadventures&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/negiadventures)
+
+</div>
+
+<!-- STATS-START -->
+<!-- Repository stats are auto-updated weekly by GitHub Actions -->
+<!-- STATS-END -->
+
+---
+
+## 📚 Currently Learning & Growing
+
+- **Observability at Scale** — Distributed tracing, OpenTelemetry, log aggregation
+- **LLM Operations** — Fine-tuning, prompt engineering, RAG patterns, vector DBs
+- **System Design** — High-availability, fault-tolerance, capacity planning
+- **Platform Engineering** — Internal developer platforms, golden paths
+
+---
+
+## 💬 Let's Connect
+
+I'm open to discussing:
+- 🏗️ Backend architecture challenges & scalability patterns
+- 🤖 AI/ML infrastructure, RAG, and LLM application development
+- 📊 Data systems, real-time analytics, and event streaming
+- 🔧 Developer experience, internal tools, and platform engineering
+- 🌱 Engineering leadership & senior/staff engineering roles
+
+**Find me at:**
+
+[![Email](https://img.shields.io/badge/anirudh0993@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anirudh0993@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/anirudhnegi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhnegi/)
+[![Portfolio](https://img.shields.io/badge/negiadventures.github.io-000000?style=flat-square&logo=github&logoColor=white)](https://negiadventures.github.io)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://negiadventures.github.io/blog)
+
+---
+
+<div align="center">
+
+**Building systems that scale. Engineering excellence through every layer.**
+
+```
+> whoami
+Senior Backend Engineer | Systems Architect | AI Infrastructure
+```
+
+*Profile stats auto-updated weekly · RSS feed · Portfolio sync powered by GitHub Actions*
+
+</div>
