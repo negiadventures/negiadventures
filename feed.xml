@@ -5,56 +5,147 @@
     <link>https://github.com/negiadventures</link>
     <description>Latest public repositories and project updates from Anirudh Negi (negiadventures)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 06:48:22 +0000</lastBuildDate>
     <atom:link href="https://negiadventures.github.io/feed.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>negiadventures</title>
+      <link>https://github.com/negiadventures/negiadventures</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/negiadventures</guid>
+      <pubDate>Tue, 24 Mar 2026 23:36:22 +0000</pubDate>
+      <description>No description provided. | Stars: 0</description>
+    </item>
+    <item>
+      <title>github-readme-stats</title>
+      <link>https://github.com/negiadventures/github-readme-stats</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/github-readme-stats</guid>
+      <pubDate>Tue, 24 Mar 2026 23:17:19 +0000</pubDate>
+      <description>:zap: Dynamically generated stats for your github readmes | Language: JavaScript | Stars: 0</description>
+    </item>
+    <item>
+      <title>ai-tutor</title>
+      <link>https://github.com/negiadventures/ai-tutor</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/ai-tutor</guid>
+      <pubDate>Tue, 24 Mar 2026 22:07:28 +0000</pubDate>
+      <description>AI-powered educational tool designed to convert PDF/Word study materials into intelligent chapter-wise quizzes | Language: Python | Stars: 0</description>
+    </item>
+    <item>
+      <title>gamehub</title>
+      <link>https://github.com/negiadventures/gamehub</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/gamehub</guid>
+      <pubDate>Mon, 23 Mar 2026 22:37:20 +0000</pubDate>
+      <description>Claude code generated html5 games | Language: HTML | Stars: 0</description>
+    </item>
+    <item>
+      <title>negiadventures.github.io</title>
+      <link>https://github.com/negiadventures/negiadventures.github.io</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/negiadventures.github.io</guid>
+      <pubDate>Mon, 23 Mar 2026 19:40:13 +0000</pubDate>
+      <description>No description provided. | Language: HTML | Stars: 0</description>
+    </item>
+    <item>
+      <title>lc-top-interview-150-solved</title>
+      <link>https://github.com/negiadventures/lc-top-interview-150-solved</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/lc-top-interview-150-solved</guid>
+      <pubDate>Thu, 19 Feb 2026 12:32:00 +0000</pubDate>
+      <description>* 150 Original &amp; Classic Questions * Covers comprehensive interview topics * Best for 3+ months of prep time * Problems support high-quality editorials | Stars: 0</description>
+    </item>
+    <item>
+      <title>mortgage-atlas</title>
+      <link>https://github.com/negiadventures/mortgage-atlas</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/mortgage-atlas</guid>
+      <pubDate>Sat, 10 Jan 2026 13:40:19 +0000</pubDate>
+      <description>See the true cost of homeownership before you sign. | Language: JavaScript | Stars: 0</description>
+    </item>
+    <item>
+      <title>stock_analysis</title>
+      <link>https://github.com/negiadventures/stock_analysis</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/stock_analysis</guid>
+      <pubDate>Wed, 13 Aug 2025 13:18:30 +0000</pubDate>
+      <description>Analysis for stocks to keep an eye | Language: JavaScript | Stars: 0</description>
+    </item>
     <item>
       <title>market-summary-ai</title>
       <link>https://github.com/negiadventures/market-summary-ai</link>
       <guid isPermaLink="true">https://github.com/negiadventures/market-summary-ai</guid>
-      <pubDate>Mon, 24 Mar 2026 00:00:00 +0000</pubDate>
-      <description>AI-powered market insights using Claude + real-time data | Topics: ai, llm, python, aws | Language: Python | Stars: 0</description>
+      <pubDate>Sat, 02 Aug 2025 16:04:30 +0000</pubDate>
+      <description>Market summaries with AI-written news content | Language: Python | Stars: 0</description>
     </item>
-
     <item>
       <title>devspace-microservices</title>
       <link>https://github.com/negiadventures/devspace-microservices</link>
       <guid isPermaLink="true">https://github.com/negiadventures/devspace-microservices</guid>
-      <pubDate>Thu, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Distributed microservices architecture with DevSpace orchestration | Language: JavaScript | Stars: 0</description>
+      <pubDate>Sun, 08 Dec 2024 04:16:25 +0000</pubDate>
+      <description>Deploying Microservices with devspace | Language: TypeScript | Stars: 0</description>
     </item>
-
     <item>
       <title>slackbot_bedrock</title>
       <link>https://github.com/negiadventures/slackbot_bedrock</link>
       <guid isPermaLink="true">https://github.com/negiadventures/slackbot_bedrock</guid>
-      <pubDate>Sat, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <description>LLM-powered Slack bot for team automation via AWS Bedrock | Language: Python | Stars: 0</description>
+      <pubDate>Thu, 05 Dec 2024 19:54:34 +0000</pubDate>
+      <description>Backend Service to connect Slack with bedrock | Language: TypeScript | Stars: 0</description>
     </item>
-
     <item>
-      <title>elasticsearch-helpers</title>
-      <link>https://github.com/negiadventures/elasticsearch-helpers</link>
-      <guid isPermaLink="true">https://github.com/negiadventures/elasticsearch-helpers</guid>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <description>Reusable utilities for advanced search and aggregation pipelines | Language: Python | Stars: 0</description>
+      <title>nd0191-c2-React-Redux-project-starter</title>
+      <link>https://github.com/negiadventures/nd0191-c2-React-Redux-project-starter</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/nd0191-c2-React-Redux-project-starter</guid>
+      <pubDate>Sun, 22 Jan 2023 21:33:49 +0000</pubDate>
+      <description>No description provided. | Language: JavaScript | Stars: 0</description>
     </item>
-
+    <item>
+      <title>nd0191-c1-myreads</title>
+      <link>https://github.com/negiadventures/nd0191-c1-myreads</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/nd0191-c1-myreads</guid>
+      <pubDate>Fri, 06 Jan 2023 17:15:37 +0000</pubDate>
+      <description>Course project for React Fundamentals course | Language: JavaScript | Stars: 0</description>
+    </item>
     <item>
       <title>virtual-tryon</title>
       <link>https://github.com/negiadventures/virtual-tryon</link>
       <guid isPermaLink="true">https://github.com/negiadventures/virtual-tryon</guid>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <description>Virtual try-on system using advanced computer vision | Language: Python | Stars: 3</description>
+      <pubDate>Wed, 30 Mar 2022 17:13:00 +0000</pubDate>
+      <description>No description provided. | Language: Jupyter Notebook | Stars: 3</description>
     </item>
-
     <item>
-      <title>network-curl-extension</title>
-      <link>https://github.com/negiadventures/network-curl-extension</link>
-      <guid isPermaLink="true">https://github.com/negiadventures/network-curl-extension</guid>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <description>Browser extension for network debugging and curl generation | Language: JavaScript | Stars: 0</description>
+      <title>pathfinder-cnn</title>
+      <link>https://github.com/negiadventures/pathfinder-cnn</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/pathfinder-cnn</guid>
+      <pubDate>Thu, 03 Mar 2022 16:19:06 +0000</pubDate>
+      <description>Image Classification based path finder | Language: Python | Stars: 1</description>
     </item>
-
+    <item>
+      <title>predicting_hotel_availability</title>
+      <link>https://github.com/negiadventures/predicting_hotel_availability</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/predicting_hotel_availability</guid>
+      <pubDate>Sun, 06 Feb 2022 22:25:44 +0000</pubDate>
+      <description>No description provided. | Language: Jupyter Notebook | Stars: 3</description>
+    </item>
+    <item>
+      <title>traffic-sign-detect-and-recognize</title>
+      <link>https://github.com/negiadventures/traffic-sign-detect-and-recognize</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/traffic-sign-detect-and-recognize</guid>
+      <pubDate>Wed, 08 Dec 2021 04:56:11 +0000</pubDate>
+      <description>No description provided. | Language: Jupyter Notebook | Stars: 0</description>
+    </item>
+    <item>
+      <title>zendesk-intern-challenge</title>
+      <link>https://github.com/negiadventures/zendesk-intern-challenge</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/zendesk-intern-challenge</guid>
+      <pubDate>Wed, 01 Dec 2021 20:59:10 +0000</pubDate>
+      <description>Zendesk Ticket Viewer | Language: HTML | Stars: 0</description>
+    </item>
+    <item>
+      <title>VITON-HD</title>
+      <link>https://github.com/negiadventures/VITON-HD</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/VITON-HD</guid>
+      <pubDate>Wed, 01 Dec 2021 13:59:43 +0000</pubDate>
+      <description>Official PyTorch implementation of "VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization" (CVPR 2021) | Stars: 0</description>
+    </item>
+    <item>
+      <title>prob-robot-target</title>
+      <link>https://github.com/negiadventures/prob-robot-target</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/prob-robot-target</guid>
+      <pubDate>Wed, 17 Nov 2021 05:05:40 +0000</pubDate>
+      <description>No description provided. | Language: Python | Stars: 0</description>
+    </item>
   </channel>
 </rss>
