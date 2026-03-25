@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer III** with deep expertise in designing and architecting **backend platforms** that scale, implementing **AI-ready data systems**, and building **developer tooling** that empowers teams. I focus on reliability, observability, and systems thinking—treating infrastructure as a critical business asset.
+I'm a **Software Engineer** with deep expertise in designing and architecting **backend platforms** that scale, implementing **AI-ready data systems**, and building **developer tooling** that empowers teams. I focus on reliability, observability, and systems thinking—treating infrastructure as a critical business asset.
 
 **Current Focus:**
 - 🏗️ Distributed systems architecture & microservices patterns
@@ -27,47 +27,40 @@ I'm a **Software Engineer III** with deep expertise in designing and architectin
 
 ---
 
-## 🚀 Currently Working On
-
-| Project | Status | Tech | Last Update |
-|---------|--------|------|-------------|
-| [**market-summary-ai**](https://github.com/negiadventures/market-summary-ai) | 🔄 Active | Python, Claude, AWS | Mar 2026 |
-| [**devspace-microservices**](https://github.com/negiadventures/devspace-microservices) | 🏗️ Maintenance | K8s, Docker, Node.js | Mar 2026 |
-| [**slackbot_bedrock**](https://github.com/negiadventures/slackbot_bedrock) | ✅ Stable | AWS Bedrock, Python | Mar 2026 |
-
----
-
 ## 🗓️ Work Timeline
 
 ```
 2016 ──────────────────────────────────────────────────────────── Present
  │
- ├─ 2016-2018 │ 🎓 B.Tech CSE — Jaypee Institute of Information Technology
- │              ↳ Algorithms, Data Structures, OS, Networking
- │              ↳ Built: Pathfinding visualizer, ML coursework projects
+ ├─ 2016-2019 │ 💼 Software Engineer — Mediaocean
+ │              ↳ Pune, India
+ │              ↳ Large-scale ETL pipelines into Greenplum Data Warehouse
+ │              ↳ SQL optimization for live analytics dashboards
+ │              ↳ Docker containerization of ETL workflows
+ │              ↳ Awards: Rising Star, Brand Value
  │
- ├─ 2018-2019 │ 💼 Software Engineer I — Junior Developer
- │              ↳ Java Spring Boot microservices, REST APIs
- │              ↳ MySQL, PostgreSQL, Oracle DB
- │              ↳ AWS Lambda, S3, SQS basics
+ ├─ 2019-2021 │ 💼 Software Developer — SymphonyAI
+ │              ↳ Bangalore, India
+ │              ↳ Redesigned & parallelized legacy ETL pipelines
+ │              ↳ Architected Elasticsearch indexing strategies & custom analyzers
+ │              ↳ Mentored engineers on cluster optimization
  │
- ├─ 2019-2021 │ 💼 Software Engineer II — Mid-level Backend
- │              ↳ Elasticsearch integration & search infrastructure
- │              ↳ Node.js / TypeScript services at scale
- │              ↳ Docker, CI/CD pipelines, monitoring
- │              ↳ Freelance on Fiverr: 50+ client integrations
+ ├─ 2021-2022 │ 🎓 MS Computer Science — Rutgers University, New Brunswick, NJ
+ │              ↳ Award: Academic Excellence
  │
- ├─ 2021-2023 │ 💼 Software Engineer II → III — GoFundMe
- │              ↳ Backend platform for donation flows (100M+ txns)
- │              ↳ Kafka event streaming, Redis caching
- │              ↳ AWS Bedrock LLM integration
- │              ↳ Internal tooling & developer experience
+ ├─ 2022-2023 │ 💼 Senior Java Developer — Genentech
+ │              ↳ Remote, US
+ │              ↳ Salesforce-to-enterprise database migration framework
+ │              ↳ Spring Batch optimization: 60% throughput improvement
+ │              ↳ AWS infrastructure with Terraform
  │
- └─ 2023-NOW  │ 💼 Software Engineer III — GoFundMe
-               ↳ AI-ready data systems & LLM pipelines
-               ↳ Real-time analytics infrastructure
-               ↳ System observability & incident response
-               ↳ Architecture reviews & cross-team collaboration
+ └─ 2023-NOW  │ 💼 Software Engineer II (Backend & Platform) — GoFundMe
+               ↳ Remote, US
+               ↳ Event-driven integration platform with Salesforce Nonprofit Cloud
+               ↳ Large-scale ETL pipelines across millions of nonprofit entities
+               ↳ Identity verification integration (Alloy)
+               ↳ Generative AI integration for content automation
+               ↳ Award: SPOT award
 ```
 
 ---
