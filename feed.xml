@@ -5,13 +5,20 @@
     <link>https://github.com/negiadventures</link>
     <description>Latest public repositories and project updates from Anirudh Negi (negiadventures)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2026 06:54:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 06:54:01 +0000</lastBuildDate>
     <atom:link href="https://negiadventures.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>negiadventures.github.io</title>
+      <link>https://github.com/negiadventures/negiadventures.github.io</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/negiadventures.github.io</guid>
+      <pubDate>Thu, 26 Mar 2026 23:08:22 +0000</pubDate>
+      <description>No description provided. | Language: HTML | Stars: 0</description>
+    </item>
     <item>
       <title>negiadventures</title>
       <link>https://github.com/negiadventures/negiadventures</link>
       <guid isPermaLink="true">https://github.com/negiadventures/negiadventures</guid>
-      <pubDate>Wed, 25 Mar 2026 11:22:22 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2026 06:54:51 +0000</pubDate>
       <description>No description provided. | Stars: 0</description>
     </item>
     <item>
@@ -36,13 +43,6 @@
       <description>Claude code generated html5 games | Language: HTML | Stars: 0</description>
     </item>
     <item>
-      <title>negiadventures.github.io</title>
-      <link>https://github.com/negiadventures/negiadventures.github.io</link>
-      <guid isPermaLink="true">https://github.com/negiadventures/negiadventures.github.io</guid>
-      <pubDate>Mon, 23 Mar 2026 19:40:13 +0000</pubDate>
-      <description>No description provided. | Language: HTML | Stars: 0</description>
-    </item>
-    <item>
       <title>lc-top-interview-150-solved</title>
       <link>https://github.com/negiadventures/lc-top-interview-150-solved</link>
       <guid isPermaLink="true">https://github.com/negiadventures/lc-top-interview-150-solved</guid>
@@ -55,13 +55,6 @@
       <guid isPermaLink="true">https://github.com/negiadventures/mortgage-atlas</guid>
       <pubDate>Sat, 10 Jan 2026 13:40:19 +0000</pubDate>
       <description>See the true cost of homeownership before you sign. | Language: JavaScript | Stars: 0</description>
-    </item>
-    <item>
-      <title>stock_analysis</title>
-      <link>https://github.com/negiadventures/stock_analysis</link>
-      <guid isPermaLink="true">https://github.com/negiadventures/stock_analysis</guid>
-      <pubDate>Wed, 13 Aug 2025 13:18:30 +0000</pubDate>
-      <description>Analysis for stocks to keep an eye | Language: JavaScript | Stars: 0</description>
     </item>
     <item>
       <title>market-summary-ai</title>
@@ -146,6 +139,13 @@
       <guid isPermaLink="true">https://github.com/negiadventures/prob-robot-target</guid>
       <pubDate>Wed, 17 Nov 2021 05:05:40 +0000</pubDate>
       <description>No description provided. | Language: Python | Stars: 0</description>
+    </item>
+    <item>
+      <title>pubmed_analysis</title>
+      <link>https://github.com/negiadventures/pubmed_analysis</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/pubmed_analysis</guid>
+      <pubDate>Mon, 08 Nov 2021 04:04:31 +0000</pubDate>
+      <description>Processing and Analyzing 31 Million+ citations with 210 Million+ edges (Citation network) | Language: Jupyter Notebook | Stars: 0</description>
     </item>
   </channel>
 </rss>
