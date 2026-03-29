@@ -153,7 +153,27 @@ I'm a **Software Engineer** with deep expertise in designing and architecting **
 </div>
 
 <!-- STATS-START -->
-<!-- Repository stats are auto-updated weekly by GitHub Actions -->
+<!-- Auto-generated on 2026-03-29 03:23 UTC -->
+
+### 📊 Repository Statistics
+
+**Total Public Repositories**: 38 &nbsp;|&nbsp; **Total Stars**: 10
+
+**Distribution by Category**:
+
+- **AI & Data Systems**: 8 repos
+- **Backend & Infrastructure**: 14 repos
+- **Educational & Research**: 8 repos
+- **Client Work & Freelance**: 8 repos
+
+**Recently Updated**:
+
+- [`negiadventures.github.io`](https://github.com/negiadventures/negiadventures.github.io) — Mar 28, 2026
+- [`negiadventures`](https://github.com/negiadventures/negiadventures) — Mar 28, 2026
+- [`ai-tutor`](https://github.com/negiadventures/ai-tutor) — Mar 24, 2026
+- [`gamehub`](https://github.com/negiadventures/gamehub) — Mar 23, 2026
+- [`lc-top-interview-150-solved`](https://github.com/negiadventures/lc-top-interview-150-solved) — Feb 19, 2026
+
 <!-- STATS-END -->
 
 ---
