@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T23:36:22.452027+00:00",
+  "generated_at": "2026-03-29T03:54:01.740035+00:00",
   "username": "negiadventures",
   "total_repos": 47,
   "projects": [
@@ -758,7 +758,7 @@
       "is_fork": false,
       "is_archived": false,
       "created_at": "2024-12-05T20:08:13+00:00",
-      "updated_at": "2025-08-13T13:18:33+00:00",
+      "updated_at": "2026-03-27T11:19:07+00:00",
       "pushed_at": "2025-08-13T13:18:30+00:00",
       "category": "AI & Data Systems",
       "featured": false
@@ -799,25 +799,6 @@
       "updated_at": "2026-02-19T12:32:03+00:00",
       "pushed_at": "2026-02-19T12:32:00+00:00",
       "category": "Educational & Research",
-      "featured": false
-    },
-    {
-      "name": "negiadventures.github.io",
-      "full_name": "negiadventures/negiadventures.github.io",
-      "description": "",
-      "url": "https://github.com/negiadventures/negiadventures.github.io",
-      "homepage": "",
-      "language": "HTML",
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "open_issues": 0,
-      "is_fork": false,
-      "is_archived": false,
-      "created_at": "2016-03-14T08:57:44+00:00",
-      "updated_at": "2026-03-23T19:40:19+00:00",
-      "pushed_at": "2026-03-23T19:40:13+00:00",
-      "category": "Backend & Infrastructure",
       "featured": false
     },
     {
@@ -878,6 +859,25 @@
       "featured": false
     },
     {
+      "name": "negiadventures.github.io",
+      "full_name": "negiadventures/negiadventures.github.io",
+      "description": "",
+      "url": "https://github.com/negiadventures/negiadventures.github.io",
+      "homepage": "",
+      "language": "HTML",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "is_fork": false,
+      "is_archived": false,
+      "created_at": "2016-03-14T08:57:44+00:00",
+      "updated_at": "2026-03-28T12:10:28+00:00",
+      "pushed_at": "2026-03-28T12:10:24+00:00",
+      "category": "Backend & Infrastructure",
+      "featured": false
+    },
+    {
       "name": "negiadventures",
       "full_name": "negiadventures/negiadventures",
       "description": "",
@@ -891,8 +891,8 @@
       "is_fork": false,
       "is_archived": false,
       "created_at": "2023-02-09T02:57:21+00:00",
-      "updated_at": "2026-03-24T23:36:14+00:00",
-      "pushed_at": "2026-03-24T23:36:09+00:00",
+      "updated_at": "2026-03-29T03:23:35+00:00",
+      "pushed_at": "2026-03-29T03:23:32+00:00",
       "category": "Backend & Infrastructure",
       "featured": false
     }
