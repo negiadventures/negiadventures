@@ -153,7 +153,7 @@ I'm a **Software Engineer** with deep expertise in designing and architecting **
 </div>
 
 <!-- STATS-START -->
-<!-- Auto-generated on 2026-03-29 03:23 UTC -->
+<!-- Auto-generated on 2026-04-05 03:25 UTC -->
 
 ### 📊 Repository Statistics
 
@@ -168,11 +168,11 @@ I'm a **Software Engineer** with deep expertise in designing and architecting **
 
 **Recently Updated**:
 
-- [`negiadventures.github.io`](https://github.com/negiadventures/negiadventures.github.io) — Mar 28, 2026
-- [`negiadventures`](https://github.com/negiadventures/negiadventures) — Mar 28, 2026
+- [`negiadventures.github.io`](https://github.com/negiadventures/negiadventures.github.io) — Apr 04, 2026
+- [`negiadventures`](https://github.com/negiadventures/negiadventures) — Apr 04, 2026
+- [`mortgage-atlas`](https://github.com/negiadventures/mortgage-atlas) — Apr 03, 2026
 - [`ai-tutor`](https://github.com/negiadventures/ai-tutor) — Mar 24, 2026
 - [`gamehub`](https://github.com/negiadventures/gamehub) — Mar 23, 2026
-- [`lc-top-interview-150-solved`](https://github.com/negiadventures/lc-top-interview-150-solved) — Feb 19, 2026
 
 <!-- STATS-END -->
 
