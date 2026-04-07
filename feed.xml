@@ -5,20 +5,27 @@
     <link>https://github.com/negiadventures</link>
     <description>Latest public repositories and project updates from Anirudh Negi (negiadventures)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 07:14:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 07:02:10 +0000</lastBuildDate>
     <atom:link href="https://negiadventures.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ai-tutor</title>
+      <link>https://github.com/negiadventures/ai-tutor</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/ai-tutor</guid>
+      <pubDate>Tue, 07 Apr 2026 01:37:31 +0000</pubDate>
+      <description>AI-powered educational tool designed to convert PDF/Word study materials into intelligent chapter-wise quizzes | Language: Python | Stars: 0</description>
+    </item>
     <item>
       <title>negiadventures.github.io</title>
       <link>https://github.com/negiadventures/negiadventures.github.io</link>
       <guid isPermaLink="true">https://github.com/negiadventures/negiadventures.github.io</guid>
-      <pubDate>Sun, 05 Apr 2026 19:58:08 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 12:09:00 +0000</pubDate>
       <description>No description provided. | Language: HTML | Stars: 0</description>
     </item>
     <item>
       <title>negiadventures</title>
       <link>https://github.com/negiadventures/negiadventures</link>
       <guid isPermaLink="true">https://github.com/negiadventures/negiadventures</guid>
-      <pubDate>Sun, 05 Apr 2026 06:52:31 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 07:14:58 +0000</pubDate>
       <description>No description provided. | Stars: 0</description>
     </item>
     <item>
@@ -34,13 +41,6 @@
       <guid isPermaLink="true">https://github.com/negiadventures/github-readme-stats</guid>
       <pubDate>Tue, 24 Mar 2026 23:17:19 +0000</pubDate>
       <description>:zap: Dynamically generated stats for your github readmes | Language: JavaScript | Stars: 0</description>
-    </item>
-    <item>
-      <title>ai-tutor</title>
-      <link>https://github.com/negiadventures/ai-tutor</link>
-      <guid isPermaLink="true">https://github.com/negiadventures/ai-tutor</guid>
-      <pubDate>Tue, 24 Mar 2026 22:07:28 +0000</pubDate>
-      <description>AI-powered educational tool designed to convert PDF/Word study materials into intelligent chapter-wise quizzes | Language: Python | Stars: 0</description>
     </item>
     <item>
       <title>gamehub</title>
