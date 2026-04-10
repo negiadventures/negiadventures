@@ -5,20 +5,34 @@
     <link>https://github.com/negiadventures</link>
     <description>Latest public repositories and project updates from Anirudh Negi (negiadventures)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 07:07:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:13:09 +0000</lastBuildDate>
     <atom:link href="https://negiadventures.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>openclaw-skills</title>
+      <link>https://github.com/negiadventures/openclaw-skills</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/openclaw-skills</guid>
+      <pubDate>Fri, 10 Apr 2026 01:17:11 +0000</pubDate>
+      <description>Collection of reusable OpenClaw skills for building automated workflows. | Stars: 0</description>
+    </item>
+    <item>
+      <title>gamehub</title>
+      <link>https://github.com/negiadventures/gamehub</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/gamehub</guid>
+      <pubDate>Thu, 09 Apr 2026 23:37:48 +0000</pubDate>
+      <description>Claude code generated html5 games | Language: HTML | Stars: 0</description>
+    </item>
     <item>
       <title>negiadventures.github.io</title>
       <link>https://github.com/negiadventures/negiadventures.github.io</link>
       <guid isPermaLink="true">https://github.com/negiadventures/negiadventures.github.io</guid>
-      <pubDate>Wed, 08 Apr 2026 23:04:58 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2026 12:17:04 +0000</pubDate>
       <description>No description provided. | Language: HTML | Stars: 0</description>
     </item>
     <item>
       <title>negiadventures</title>
       <link>https://github.com/negiadventures/negiadventures</link>
       <guid isPermaLink="true">https://github.com/negiadventures/negiadventures</guid>
-      <pubDate>Wed, 08 Apr 2026 07:03:55 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2026 07:07:58 +0000</pubDate>
       <description>No description provided. | Stars: 0</description>
     </item>
     <item>
@@ -41,13 +55,6 @@
       <guid isPermaLink="true">https://github.com/negiadventures/github-readme-stats</guid>
       <pubDate>Tue, 24 Mar 2026 23:17:19 +0000</pubDate>
       <description>:zap: Dynamically generated stats for your github readmes | Language: JavaScript | Stars: 0</description>
-    </item>
-    <item>
-      <title>gamehub</title>
-      <link>https://github.com/negiadventures/gamehub</link>
-      <guid isPermaLink="true">https://github.com/negiadventures/gamehub</guid>
-      <pubDate>Mon, 23 Mar 2026 22:37:20 +0000</pubDate>
-      <description>Claude code generated html5 games | Language: HTML | Stars: 0</description>
     </item>
     <item>
       <title>lc-top-interview-150-solved</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://github.com/negiadventures/VITON-HD</guid>
       <pubDate>Wed, 01 Dec 2021 13:59:43 +0000</pubDate>
       <description>Official PyTorch implementation of "VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization" (CVPR 2021) | Stars: 0</description>
-    </item>
-    <item>
-      <title>prob-robot-target</title>
-      <link>https://github.com/negiadventures/prob-robot-target</link>
-      <guid isPermaLink="true">https://github.com/negiadventures/prob-robot-target</guid>
-      <pubDate>Wed, 17 Nov 2021 05:05:40 +0000</pubDate>
-      <description>No description provided. | Language: Python | Stars: 0</description>
     </item>
   </channel>
 </rss>
