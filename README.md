@@ -153,26 +153,26 @@ I'm a **Software Engineer** with deep expertise in designing and architecting **
 </div>
 
 <!-- STATS-START -->
-<!-- Auto-generated on 2026-04-05 03:25 UTC -->
+<!-- Auto-generated on 2026-04-12 02:25 UTC -->
 
 ### 📊 Repository Statistics
 
-**Total Public Repositories**: 38 &nbsp;|&nbsp; **Total Stars**: 10
+**Total Public Repositories**: 39 &nbsp;|&nbsp; **Total Stars**: 10
 
 **Distribution by Category**:
 
 - **AI & Data Systems**: 8 repos
-- **Backend & Infrastructure**: 14 repos
+- **Backend & Infrastructure**: 15 repos
 - **Educational & Research**: 8 repos
 - **Client Work & Freelance**: 8 repos
 
 **Recently Updated**:
 
-- [`negiadventures.github.io`](https://github.com/negiadventures/negiadventures.github.io) — Apr 04, 2026
-- [`negiadventures`](https://github.com/negiadventures/negiadventures) — Apr 04, 2026
-- [`mortgage-atlas`](https://github.com/negiadventures/mortgage-atlas) — Apr 03, 2026
-- [`ai-tutor`](https://github.com/negiadventures/ai-tutor) — Mar 24, 2026
-- [`gamehub`](https://github.com/negiadventures/gamehub) — Mar 23, 2026
+- [`negiadventures`](https://github.com/negiadventures/negiadventures) — Apr 12, 2026
+- [`negiadventures.github.io`](https://github.com/negiadventures/negiadventures.github.io) — Apr 11, 2026
+- [`openclaw-skills`](https://github.com/negiadventures/openclaw-skills) — Apr 10, 2026
+- [`gamehub`](https://github.com/negiadventures/gamehub) — Apr 09, 2026
+- [`ai-tutor`](https://github.com/negiadventures/ai-tutor) — Apr 07, 2026
 
 <!-- STATS-END -->
 
