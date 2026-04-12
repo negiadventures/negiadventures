@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="120">
+  <rect width="300" height="120" rx="10" fill="#0d1117"/>
+  <text x="150" y="50" font-family="Segoe UI,sans-serif" font-size="14" fill="#8b949e" text-anchor="middle">Top Languages</text>
+  <text x="150" y="80" font-family="Segoe UI,sans-serif" font-size="12" fill="#6e7681" text-anchor="middle">Updating via workflow…</text>
+</svg>

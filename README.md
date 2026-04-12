@@ -146,9 +146,9 @@ I'm a **Software Engineer** with deep expertise in designing and architecting **
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=negiadventures&theme=github-dark-blue&hide_border=true)](https://github.com/negiadventures)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=negiadventures&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/negiadventures)
+[![Top Languages](./stats/top-langs.svg)](https://github.com/negiadventures)
 
-[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=negiadventures&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/negiadventures)
+[![Anirudh's GitHub stats](./stats/github-stats.svg)](https://github.com/negiadventures)
 
 </div>
 
