@@ -153,26 +153,26 @@ I'm a **Software Engineer** with deep expertise in designing and architecting **
 </div>
 
 <!-- STATS-START -->
-<!-- Auto-generated on 2026-04-12 22:04 UTC -->
+<!-- Auto-generated on 2026-04-19 03:37 UTC -->
 
 ### 📊 Repository Statistics
 
-**Total Public Repositories**: 39 &nbsp;|&nbsp; **Total Stars**: 10
+**Total Public Repositories**: 40 &nbsp;|&nbsp; **Total Stars**: 10
 
 **Distribution by Category**:
 
 - **AI & Data Systems**: 8 repos
-- **Backend & Infrastructure**: 15 repos
+- **Backend & Infrastructure**: 16 repos
 - **Educational & Research**: 8 repos
 - **Client Work & Freelance**: 8 repos
 
 **Recently Updated**:
 
-- [`negiadventures`](https://github.com/negiadventures/negiadventures) — Apr 12, 2026
-- [`negiadventures.github.io`](https://github.com/negiadventures/negiadventures.github.io) — Apr 12, 2026
+- [`negiadventures.github.io`](https://github.com/negiadventures/negiadventures.github.io) — Apr 18, 2026
+- [`negiadventures`](https://github.com/negiadventures/negiadventures) — Apr 18, 2026
+- [`layover-games`](https://github.com/negiadventures/layover-games) — Apr 16, 2026
 - [`openclaw-skills`](https://github.com/negiadventures/openclaw-skills) — Apr 10, 2026
 - [`gamehub`](https://github.com/negiadventures/gamehub) — Apr 09, 2026
-- [`ai-tutor`](https://github.com/negiadventures/ai-tutor) — Apr 07, 2026
 
 <!-- STATS-END -->
 
