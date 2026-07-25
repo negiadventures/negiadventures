@@ -19,8 +19,8 @@ Backend engineer, 8+ years, currently at **GoFundMe** building event-driven inte
 systems behind search and recommendations. I work on the parts that are expensive to get wrong: schema
 and API contracts, failure semantics, and migration strategy.
 
-Outside of work I architect and operate two live products — **[Utilix](https://utilix.tech)** and
-**[Karyfy](https://karyfy.com)** — built almost entirely through agentic AI workflows with Claude Code.
+Outside of work I architect and operate two live products, **[Utilix](https://utilix.tech)** and
+**[Karyfy](https://karyfy.com)**, built almost entirely through agentic AI workflows with Claude Code.
 I own the architecture, the data model, and the reliability; the agents write most of the code. It's the
 most interesting engineering problem I've worked on lately: the bottleneck stops being implementation
 speed and becomes the quality of your specification.
@@ -29,9 +29,9 @@ speed and becomes the quality of your specification.
 
 ## Building
 
-### 🛠️ [Utilix](https://utilix.tech) — the tool layer for developers and AI agents
+### 🛠️ [Utilix](https://utilix.tech) · the tool layer for developers and AI agents
 
-One shared tool registry serving **six delivery surfaces** from a single implementation — so a tool is
+One shared tool registry serving **six delivery surfaces** from a single implementation, so a tool is
 specified once and its contract holds identically everywhere instead of drifting across per-surface
 rewrites.
 
@@ -39,7 +39,7 @@ rewrites.
 |---|---|
 | **182 tools** | one registry, one source of truth |
 | **6 surfaces** | web app · REST API · Node SDK · Python SDK · embeddable widget · MCP server |
-| **135 MCP tools** | Zod-validated, stdio — works in Claude Code, Claude Desktop, Cursor |
+| **135 MCP tools** | Zod-validated, stdio · works in Claude Code, Claude Desktop, Cursor |
 | **~8.8K** | npm downloads/month across published packages |
 
 [![SDK](https://img.shields.io/npm/v/@utilix-tech/sdk?style=flat-square&label=%40utilix-tech%2Fsdk&color=22c55e)](https://www.npmjs.com/package/@utilix-tech/sdk)
@@ -48,12 +48,12 @@ rewrites.
 
 → **[github.com/utilix-tech](https://github.com/utilix-tech)** · [docs](https://docs.utilix.tech)
 
-### 🎯 [Karyfy](https://karyfy.com) — AI job-search platform *(live, beta)*
+### 🎯 [Karyfy](https://karyfy.com) · AI job-search platform *(live, beta)*
 
 A hub-and-spoke multi-service system: a FastAPI hub exposing **135 REST endpoints** in front of six
 internal services, across a 12-repo organization.
 
-The piece I'd point at first is the **AI Gateway** — no product service calls a model provider directly.
+The piece I'd point at first is the **AI Gateway**. No product service calls a model provider directly.
 It gives us provider abstraction over OpenAI and Anthropic with automatic failover, a versioned prompt
 registry with a `draft → canary → active → deprecated` lifecycle, tier-aware model routing under timeout
 budgets, structured-output schema validation with deterministic error codes, and per-request tracing and
@@ -68,27 +68,27 @@ cost estimation.
 ```
 2016 ──────────────────────────────────────────────────────────── Present
  │
- ├─ 2016-2019 │ Software Engineer — Mediaocean · Pune, India
+ ├─ 2016-2019 │ Software Engineer · Mediaocean · Pune, India
  │              ↳ ETL pipelines into Greenplum; incremental load + CDC
  │              ↳ SQL/query-plan optimization for live analytics dashboards
  │              ↳ Docker containerization of ETL workflows
  │              ↳ Awards: Rising Star, Brand Value
  │
- ├─ 2019-2021 │ Software Developer — SymphonyAI · Bangalore, India
- │              ↳ Decomposed sequential ETL into concurrent stages — hours to minutes
+ ├─ 2019-2021 │ Software Developer · SymphonyAI · Bangalore, India
+ │              ↳ Decomposed sequential ETL into concurrent stages: hours to minutes
  │              ↳ Elasticsearch indexing strategy, custom analyzers & tokenizers
  │              ↳ Cluster sizing and shard optimization
  │              ↳ Mentored engineers on distributed search & indexing design
  │
- ├─ 2021-2022 │ MS Computer Science — Rutgers University, New Brunswick, NJ
+ ├─ 2021-2022 │ MS Computer Science · Rutgers University, New Brunswick, NJ
  │              ↳ Award: Academic Excellence
  │
- ├─ 2022-2023 │ Senior Java Developer — Genentech (Roche) · Remote, US
+ ├─ 2022-2023 │ Senior Java Developer · Genentech (Roche) · Remote, US
  │              ↳ Salesforce → enterprise DB migration framework, idempotent + rollback
  │              ↳ Spring Batch optimization: 60% runtime reduction
  │              ↳ AWS infrastructure provisioning with Terraform
  │
- └─ 2023-NOW  │ Software Engineer II, Backend & Platform — GoFundMe · Remote, US
+ └─ 2023-NOW  │ Software Engineer II, Backend & Platform · GoFundMe · Remote, US
                ↳ Event-driven integration platform (schema, retry/DLQ, delivery guarantees)
                ↳ Neo4j property-graph data model + sync pipeline for a recommendation product
                ↳ ETL across 1.8M+ charities and 6M+ fundraisers
@@ -103,7 +103,7 @@ cost estimation.
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [**openclaw-skills**](https://github.com/negiadventures/openclaw-skills) | — | Reusable OpenClaw skills for agent workflows |
+| [**openclaw-skills**](https://github.com/negiadventures/openclaw-skills) | Python | Reusable OpenClaw skills for agent workflows |
 | [**devspace-microservices**](https://github.com/negiadventures/devspace-microservices) | TypeScript, K8s | Microservices deployment with DevSpace orchestration |
 | [**slackbot_bedrock**](https://github.com/negiadventures/slackbot_bedrock) | AWS Bedrock, TS | LLM-powered Slack bot via AWS Bedrock |
 | [**market-summary-ai**](https://github.com/negiadventures/market-summary-ai) | Python, LLM | Market summaries with AI-written news content |
