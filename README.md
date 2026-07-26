@@ -37,10 +37,10 @@ rewrites.
 
 | | |
 |---|---|
-| **182 tools** | one registry, one source of truth |
+| **180+ tools** | one registry, one source of truth, growing daily |
 | **6 surfaces** | web app · REST API · Node SDK · Python SDK · embeddable widget · MCP server |
-| **135 MCP tools** | Zod-validated, stdio · works in Claude Code, Claude Desktop, Cursor |
-| **~8.8K** | npm downloads/month across published packages |
+| **130+ MCP tools** | Zod-validated, stdio · works in Claude Code, Claude Desktop, Cursor |
+| **8K+** | npm downloads/month across published packages |
 
 [![SDK](https://img.shields.io/npm/v/@utilix-tech/sdk?style=flat-square&label=%40utilix-tech%2Fsdk&color=22c55e)](https://www.npmjs.com/package/@utilix-tech/sdk)
 [![MCP](https://img.shields.io/npm/v/@utilix-tech/mcp?style=flat-square&label=%40utilix-tech%2Fmcp&color=a855f7)](https://www.npmjs.com/package/@utilix-tech/mcp)
@@ -50,8 +50,9 @@ rewrites.
 
 ### 🎯 [Karyfy](https://karyfy.com) · AI job-search platform *(live, beta)*
 
-A hub-and-spoke multi-service system: a FastAPI hub exposing **135 REST endpoints** in front of six
-internal services, across a 12-repo organization.
+A hub-and-spoke multi-service system: a FastAPI hub exposing **250+ REST endpoints** and owning identity,
+entitlement, and orchestration, in front of internal services for AI routing, resume curation, job
+extraction, coaching, career planning, and a shared identity schema.
 
 The piece I'd point at first is the **AI Gateway**. No product service calls a model provider directly.
 It gives us provider abstraction over OpenAI and Anthropic with automatic failover, a versioned prompt
