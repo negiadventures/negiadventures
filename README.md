@@ -161,6 +161,27 @@ cost estimation.
 </div>
 
 <!-- STATS-START -->
+<!-- Auto-generated on 2026-07-26 03:38 UTC -->
+
+### 📊 Repository Statistics
+
+**Total Public Repositories**: 40 &nbsp;|&nbsp; **Total Stars**: 10
+
+**Distribution by Category**:
+
+- **AI & Data Systems**: 8 repos
+- **Backend & Infrastructure**: 16 repos
+- **Educational & Research**: 8 repos
+- **Client Work & Freelance**: 8 repos
+
+**Recently Updated**:
+
+- [`negiadventures`](https://github.com/negiadventures/negiadventures) — Jul 25, 2026
+- [`negiadventures.github.io`](https://github.com/negiadventures/negiadventures.github.io) — Jul 06, 2026
+- [`layover-games`](https://github.com/negiadventures/layover-games) — Apr 16, 2026
+- [`openclaw-skills`](https://github.com/negiadventures/openclaw-skills) — Apr 10, 2026
+- [`gamehub`](https://github.com/negiadventures/gamehub) — Apr 09, 2026
+
 <!-- STATS-END -->
 
 ---
