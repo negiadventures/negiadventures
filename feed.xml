@@ -5,21 +5,28 @@
     <link>https://github.com/negiadventures</link>
     <description>Latest public repositories and project updates from Anirudh Negi (negiadventures)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:02:26 +0000</lastBuildDate>
     <atom:link href="https://negiadventures.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>negiadventures</title>
-      <link>https://github.com/negiadventures/negiadventures</link>
-      <guid isPermaLink="true">https://github.com/negiadventures/negiadventures</guid>
-      <pubDate>Mon, 31 Aug 2026 11:57:36 +0000</pubDate>
-      <description>No description provided. | Stars: 0</description>
-    </item>
     <item>
       <title>negiadventures.github.io</title>
       <link>https://github.com/negiadventures/negiadventures.github.io</link>
       <guid isPermaLink="true">https://github.com/negiadventures/negiadventures.github.io</guid>
-      <pubDate>Sun, 26 Jul 2026 14:55:09 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:31:46 +0000</pubDate>
       <description>No description provided. | Language: HTML | Stars: 0</description>
+    </item>
+    <item>
+      <title>schema-drift</title>
+      <link>https://github.com/negiadventures/schema-drift</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/schema-drift</guid>
+      <pubDate>Tue, 01 Sep 2026 23:13:11 +0000</pubDate>
+      <description>Find breaking OpenAPI changes before your consumers do. Severity depends on direction: request changes break callers, response changes break readers. | Topics: api, breaking-changes, developer-tools, nextjs, openapi, typescript | Language: TypeScript | Stars: 0</description>
+    </item>
+    <item>
+      <title>negiadventures</title>
+      <link>https://github.com/negiadventures/negiadventures</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/negiadventures</guid>
+      <pubDate>Tue, 01 Sep 2026 10:37:06 +0000</pubDate>
+      <description>No description provided. | Stars: 0</description>
     </item>
     <item>
       <title>layover-games</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://github.com/negiadventures/traffic-sign-detect-and-recognize</guid>
       <pubDate>Wed, 08 Dec 2021 04:56:11 +0000</pubDate>
       <description>No description provided. | Language: Jupyter Notebook | Stars: 0</description>
-    </item>
-    <item>
-      <title>zendesk-intern-challenge</title>
-      <link>https://github.com/negiadventures/zendesk-intern-challenge</link>
-      <guid isPermaLink="true">https://github.com/negiadventures/zendesk-intern-challenge</guid>
-      <pubDate>Wed, 01 Dec 2021 20:59:10 +0000</pubDate>
-      <description>Zendesk Ticket Viewer | Language: HTML | Stars: 0</description>
     </item>
   </channel>
 </rss>
