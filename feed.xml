@@ -5,27 +5,41 @@
     <link>https://github.com/negiadventures</link>
     <description>Latest public repositories and project updates from Anirudh Negi (negiadventures)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:12:52 +0000</lastBuildDate>
     <atom:link href="https://negiadventures.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>negiadventures.github.io</title>
       <link>https://github.com/negiadventures/negiadventures.github.io</link>
       <guid isPermaLink="true">https://github.com/negiadventures/negiadventures.github.io</guid>
-      <pubDate>Wed, 02 Sep 2026 00:31:46 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 17:53:34 +0000</pubDate>
       <description>No description provided. | Language: HTML | Stars: 0</description>
     </item>
     <item>
       <title>schema-drift</title>
       <link>https://github.com/negiadventures/schema-drift</link>
       <guid isPermaLink="true">https://github.com/negiadventures/schema-drift</guid>
-      <pubDate>Tue, 01 Sep 2026 23:13:11 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 17:53:31 +0000</pubDate>
       <description>Find breaking OpenAPI changes before your consumers do. Severity depends on direction: request changes break callers, response changes break readers. | Topics: api, breaking-changes, developer-tools, nextjs, openapi, typescript | Language: TypeScript | Stars: 0</description>
+    </item>
+    <item>
+      <title>developer-portfolios</title>
+      <link>https://github.com/negiadventures/developer-portfolios</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/developer-portfolios</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:20 +0000</pubDate>
+      <description>A list of developer portfolios for your inspiration | Stars: 0</description>
+    </item>
+    <item>
+      <title>agent-ops</title>
+      <link>https://github.com/negiadventures/agent-ops</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/agent-ops</guid>
+      <pubDate>Wed, 02 Sep 2026 14:48:11 +0000</pubDate>
+      <description>Observability for coding agents. Replay runs with tool latency, token spend, policy gates and approvals. | Topics: ai-agents, dashboard, nextjs, observability, typescript | Language: TypeScript | Stars: 0</description>
     </item>
     <item>
       <title>negiadventures</title>
       <link>https://github.com/negiadventures/negiadventures</link>
       <guid isPermaLink="true">https://github.com/negiadventures/negiadventures</guid>
-      <pubDate>Tue, 01 Sep 2026 10:37:06 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 10:02:27 +0000</pubDate>
       <description>No description provided. | Stars: 0</description>
     </item>
     <item>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://github.com/negiadventures/pathfinder-cnn</guid>
       <pubDate>Thu, 03 Mar 2022 16:19:06 +0000</pubDate>
       <description>Image Classification based path finder | Language: Python | Stars: 1</description>
-    </item>
-    <item>
-      <title>predicting_hotel_availability</title>
-      <link>https://github.com/negiadventures/predicting_hotel_availability</link>
-      <guid isPermaLink="true">https://github.com/negiadventures/predicting_hotel_availability</guid>
-      <pubDate>Sun, 06 Feb 2022 22:25:44 +0000</pubDate>
-      <description>No description provided. | Language: Jupyter Notebook | Stars: 3</description>
-    </item>
-    <item>
-      <title>traffic-sign-detect-and-recognize</title>
-      <link>https://github.com/negiadventures/traffic-sign-detect-and-recognize</link>
-      <guid isPermaLink="true">https://github.com/negiadventures/traffic-sign-detect-and-recognize</guid>
-      <pubDate>Wed, 08 Dec 2021 04:56:11 +0000</pubDate>
-      <description>No description provided. | Language: Jupyter Notebook | Stars: 0</description>
     </item>
   </channel>
 </rss>
