@@ -5,28 +5,42 @@
     <link>https://github.com/negiadventures</link>
     <description>Latest public repositories and project updates from Anirudh Negi (negiadventures)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:32:04 +0000</lastBuildDate>
     <atom:link href="https://negiadventures.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>negiadventures</title>
-      <link>https://github.com/negiadventures/negiadventures</link>
-      <guid isPermaLink="true">https://github.com/negiadventures/negiadventures</guid>
-      <pubDate>Thu, 03 Sep 2026 10:12:54 +0000</pubDate>
-      <description>No description provided. | Stars: 0</description>
-    </item>
     <item>
       <title>negiadventures.github.io</title>
       <link>https://github.com/negiadventures/negiadventures.github.io</link>
       <guid isPermaLink="true">https://github.com/negiadventures/negiadventures.github.io</guid>
-      <pubDate>Wed, 02 Sep 2026 17:53:34 +0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:47:36 +0000</pubDate>
       <description>No description provided. | Language: HTML | Stars: 0</description>
+    </item>
+    <item>
+      <title>mortgage-atlas</title>
+      <link>https://github.com/negiadventures/mortgage-atlas</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/mortgage-atlas</guid>
+      <pubDate>Fri, 04 Sep 2026 19:34:56 +0000</pubDate>
+      <description>See the true cost of homeownership before you sign. | Language: JavaScript | Stars: 0</description>
+    </item>
+    <item>
+      <title>agent-ops</title>
+      <link>https://github.com/negiadventures/agent-ops</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/agent-ops</guid>
+      <pubDate>Fri, 04 Sep 2026 19:34:45 +0000</pubDate>
+      <description>Observability for coding agents. Replay runs with tool latency, token spend, policy gates and approvals. | Topics: ai-agents, dashboard, nextjs, observability, typescript | Language: TypeScript | Stars: 0</description>
     </item>
     <item>
       <title>schema-drift</title>
       <link>https://github.com/negiadventures/schema-drift</link>
       <guid isPermaLink="true">https://github.com/negiadventures/schema-drift</guid>
-      <pubDate>Wed, 02 Sep 2026 17:53:31 +0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:34:43 +0000</pubDate>
       <description>Find breaking OpenAPI changes before your consumers do. Severity depends on direction: request changes break callers, response changes break readers. | Topics: api, breaking-changes, developer-tools, nextjs, openapi, typescript | Language: TypeScript | Stars: 0</description>
+    </item>
+    <item>
+      <title>negiadventures</title>
+      <link>https://github.com/negiadventures/negiadventures</link>
+      <guid isPermaLink="true">https://github.com/negiadventures/negiadventures</guid>
+      <pubDate>Fri, 04 Sep 2026 10:02:48 +0000</pubDate>
+      <description>No description provided. | Stars: 0</description>
     </item>
     <item>
       <title>developer-portfolios</title>
@@ -34,13 +48,6 @@
       <guid isPermaLink="true">https://github.com/negiadventures/developer-portfolios</guid>
       <pubDate>Wed, 02 Sep 2026 15:15:20 +0000</pubDate>
       <description>A list of developer portfolios for your inspiration | Stars: 0</description>
-    </item>
-    <item>
-      <title>agent-ops</title>
-      <link>https://github.com/negiadventures/agent-ops</link>
-      <guid isPermaLink="true">https://github.com/negiadventures/agent-ops</guid>
-      <pubDate>Wed, 02 Sep 2026 14:48:11 +0000</pubDate>
-      <description>Observability for coding agents. Replay runs with tool latency, token spend, policy gates and approvals. | Topics: ai-agents, dashboard, nextjs, observability, typescript | Language: TypeScript | Stars: 0</description>
     </item>
     <item>
       <title>layover-games</title>
@@ -76,13 +83,6 @@
       <guid isPermaLink="true">https://github.com/negiadventures/ai-tutor</guid>
       <pubDate>Tue, 07 Apr 2026 01:37:31 +0000</pubDate>
       <description>AI-powered educational tool designed to convert PDF/Word study materials into intelligent chapter-wise quizzes | Language: Python | Stars: 1</description>
-    </item>
-    <item>
-      <title>mortgage-atlas</title>
-      <link>https://github.com/negiadventures/mortgage-atlas</link>
-      <guid isPermaLink="true">https://github.com/negiadventures/mortgage-atlas</guid>
-      <pubDate>Fri, 03 Apr 2026 16:19:23 +0000</pubDate>
-      <description>See the true cost of homeownership before you sign. | Language: JavaScript | Stars: 0</description>
     </item>
     <item>
       <title>lc-top-interview-150-solved</title>
