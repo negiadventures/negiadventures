@@ -162,26 +162,27 @@ cost estimation.
 </div>
 
 <!-- STATS-START -->
-<!-- Auto-generated on 2026-08-30 05:00 UTC -->
+<!-- Auto-generated on 2026-09-06 04:12 UTC -->
 
 ### 📊 Repository Statistics
 
-**Total Public Repositories**: 40 &nbsp;|&nbsp; **Total Stars**: 11
+**Total Public Repositories**: 42 &nbsp;|&nbsp; **Total Stars**: 11
 
 **Distribution by Category**:
 
 - **AI & Data Systems**: 8 repos
-- **Backend & Infrastructure**: 16 repos
+- **Backend & Infrastructure**: 17 repos
+- **Developer Tools**: 1 repos
 - **Educational & Research**: 8 repos
 - **Client Work & Freelance**: 8 repos
 
 **Recently Updated**:
 
-- [`negiadventures`](https://github.com/negiadventures/negiadventures) — Aug 29, 2026
-- [`negiadventures.github.io`](https://github.com/negiadventures/negiadventures.github.io) — Jul 26, 2026
-- [`layover-games`](https://github.com/negiadventures/layover-games) — Apr 16, 2026
-- [`openclaw-skills`](https://github.com/negiadventures/openclaw-skills) — Apr 10, 2026
-- [`gamehub`](https://github.com/negiadventures/gamehub) — Apr 09, 2026
+- [`negiadventures`](https://github.com/negiadventures/negiadventures) — Sep 05, 2026
+- [`negiadventures.github.io`](https://github.com/negiadventures/negiadventures.github.io) — Sep 04, 2026
+- [`mortgage-atlas`](https://github.com/negiadventures/mortgage-atlas) — Sep 04, 2026
+- [`agent-ops`](https://github.com/negiadventures/agent-ops) — Sep 04, 2026
+- [`schema-drift`](https://github.com/negiadventures/schema-drift) — Sep 04, 2026
 
 <!-- STATS-END -->
 
